@@ -1,0 +1,3 @@
+force_passwd_change = true
+password_file = /etc/trac/htpasswd
+password_store = HtPasswdStore

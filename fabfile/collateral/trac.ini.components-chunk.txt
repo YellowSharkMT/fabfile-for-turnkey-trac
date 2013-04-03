@@ -1,0 +1,12 @@
+acct_mgr.admin.accountmanageradminpage = enabled
+acct_mgr.api.accountmanager = enabled
+acct_mgr.db.sessionstore = disabled
+acct_mgr.htfile.htpasswdstore = enabled
+acct_mgr.notification.accountchangelistener = enabled
+acct_mgr.notification.accountchangenotificationadminpanel = enabled
+acct_mgr.web_ui.accountmodule = enabled
+acct_mgr.web_ui.loginmodule = enabled
+httphostlink.* = enabled
+iniadmin.* = enabled
+noanonymous.filter.* = enabled
+trac.web.auth.loginmodule = disabled

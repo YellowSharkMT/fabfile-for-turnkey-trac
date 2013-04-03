@@ -1,0 +1,4 @@
+/.idea
+/fabfile/tmp/trac.ini*
+/fabfile/settings.py*
+*.pyc
